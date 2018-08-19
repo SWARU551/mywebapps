@@ -1,0 +1,45 @@
+{
+	"basics":{
+        "name":"swaroopa",
+        "role":"mean-stack",
+        "mobile":"+91 8885208128",
+        "email":"swaroopa@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[{
+		"degree":"Btech(Computer Science &Engineering)",
+		"institute":"Vignan Nirula",
+		"data":["2016-20","95%"]
+	},
+	{
+	"degree":"Inter(MPC)",
+		"institute":"Sri Chaitanya",
+		"data":["2014-16","95%"]	
+	},
+	{
+		"degree":"SCC",
+		"institute":"Sri Chaitanya",
+		"data":["2014","95%"]
+	}
+	],
+	"skills":[
+		{
+			"title":"Programming Languages",
+			"content":["Python","C","Java","R","C++"]
+		},
+		{
+			"title":"Data Bases",
+			"content":["SQL","Oracle","mySql"]
+		},
+		{
+			"title":"Web Technologies",
+			"content":["HTML","XML","Javscript","CSS"]
+		},
+		{
+			"title":"Operating Systems",
+			"content":["Windows","Unix","Linux"]
+		}
+	]
+}
